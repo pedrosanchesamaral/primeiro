@@ -8,4 +8,4 @@ for (var i=0;i<=100;i++){
         console.log("uhu");
     }
 }
-console.log("Loft")
+console.log("Lft")
