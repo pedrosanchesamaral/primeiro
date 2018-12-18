@@ -1,11 +1,5 @@
 console.log("Hello World");
 
-console.log("aaa");
+console.log("Fix");
 
-for (var i=0;i<=100;i++){
-    console.log("aaa");
-    while(true){
-        console.log("uhu");
-    }
-}
-console.log("Lft")
+console.log("conflit");
